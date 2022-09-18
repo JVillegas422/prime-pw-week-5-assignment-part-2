@@ -4,13 +4,13 @@ body {
     margin: 0;
 }
 
-.name {
+.topName {
     background-color: rgb(72, 8, 132);
     color: lightblue;
     text-align: center;
 }
 
-main {
+.bottomOutput {
     background-color: lightgrey;
     padding: 1em;
 }
