@@ -1,13 +1,16 @@
 body {
     background-image: url('../assignment/record.png');
     background-repeat: repeat;
+    margin: 0;
 }
 
 .name {
     background-color: rgb(72, 8, 132);
     color: lightblue;
+    text-align: center;
 }
 
 main {
     background-color: lightgrey;
+    padding: 1em;
 }
