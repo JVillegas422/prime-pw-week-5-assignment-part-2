@@ -1,4 +1,13 @@
+body {
+    background-image: url('../assignment/record.png');
+    background-repeat: repeat;
+}
+
 .name {
     background-color: rgb(72, 8, 132);
     color: lightblue;
+}
+
+main {
+    background-color: lightgrey;
 }
